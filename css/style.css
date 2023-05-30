@@ -1,0 +1,66 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+header .navbar{
+
+    display:inline-flex;
+    justify-content: end;
+    align-content: end;
+    background: rgba(80, 175, 80, 0.3) 
+}
+
+
+
+
+body{
+
+width:100%;
+
+
+}
+
+ .landing-picture{
+
+   display:flex;
+   justify-content: end ;
+    align-items: end;
+}
+
+.landing-text {
+
+    display:flex;
+    margin-top: -300px;
+    padding-left: -50px;
+    font-weight: 800;
+    font-size: 40px;
+    color: #299b43;
+    
+
+}
+
+.logo{
+
+    display:inline-block;
+    margin-left:10px;
+    font-weight: 800;
+    font-size: 40px;
+    color: #2b9042;
+
+}
+
+/* Carousel */
+
+.carousel-item{
+
+display: flex;
+justify-content: center;
+align-items: center;
+background: rgba(80, 175, 80, 0.3) 
+
+}
+
